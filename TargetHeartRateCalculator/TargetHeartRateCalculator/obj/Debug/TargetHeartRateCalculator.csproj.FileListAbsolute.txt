@@ -1,0 +1,30 @@
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe.config
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.pdb
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csprojAssemblyReference.cache
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.Form1.resources
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.Properties.Resources.resources
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.GenerateResource.cache
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.CoreCompileInputs.cache
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.exe
+D:\C# II\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.pdb
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe.config
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.pdb
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csprojAssemblyReference.cache
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.Form1.resources
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.Properties.Resources.resources
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.GenerateResource.cache
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.CoreCompileInputs.cache
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.exe
+D:\C# II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.pdb
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe.config
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.pdb
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.AssemblyReference.cache
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.Form1.resources
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.Properties.Resources.resources
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.GenerateResource.cache
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.CoreCompileInputs.cache
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.exe
+D:\C#II\Target Heart Rate Calculator\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.pdb
